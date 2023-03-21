@@ -1,0 +1,18 @@
+{
+  "id": 6920,
+  "category": {
+    "id": 0,
+    "name": "Dog"
+  },
+  "name": "Mag",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "castrado"
+    }
+  ],
+  "status": "desativado"
+}
