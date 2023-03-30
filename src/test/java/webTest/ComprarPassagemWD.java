@@ -33,7 +33,6 @@ public class ComprarPassagemWD {
         options.addArguments("--remote-allow-origins=*");
         driver = new ChromeDriver(options); // instancia oChrome Driver com Options
         driver.manage().window().maximize(); // maximiza a janela do navegador
-
     } // fim do Before
 
     // Depois do Teste
